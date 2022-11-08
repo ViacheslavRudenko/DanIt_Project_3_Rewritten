@@ -1,8 +1,6 @@
-# Projects
+What tasks the student performed:
 
-- CSS - individual prject;
-- CSS-SASS - work in a team of 2 people;
-- JS(Doctor appointment)- work in a team of 4 people;
-- JS(Doctor appointment)-Rewritten - Completely rewritten JS code;
-- React(good-store) - individual project;
-- React(finance-app) - individual project; ->!IN PROCESS!<-
+--> Богдан Литвиненко: gulp, карточка описывающая визит
+--> Руденко В'ячеслав: адаптив, форма авторизации, фильтрация карточек по доктору, приоритету, Drag&Drop
+--> Андрій Гуменюк: форма создании карточки, фильтрация карточек по имени, валидация корректности введенных данных
+--> Вікторія Крамаренко: взаимодействие с AJAX сервером
